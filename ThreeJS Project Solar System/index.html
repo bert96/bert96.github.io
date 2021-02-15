@@ -1,0 +1,53 @@
+<!DOCTYPE html> 
+<html> 
+<head> 
+<meta charset="utf-8"> 
+<title>Starmap</title> 
+<style> 
+	body { 
+		margin: 0; 
+	} 
+	canvas { 
+		width: 100%; 
+		height: 100%; 
+	} 
+	.planetButton {
+		width: 140px;
+		height: 50px;
+		margin-top: 5px;
+		background-color: black;
+		border: 2px solid #00ff00;
+		color: #00ff00;
+		font-weight: bold;
+	}
+	#Menu {
+		width: 150px;
+		height: 450px;
+		background-color: black;
+		position: absolute;
+		border: 2px solid #00ff00;
+	}
+
+</style> 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+<script src="https://threejs.org/build/three.min.js"></script>
+<script src="https://threejs.org/examples/js/controls/TrackballControls.js"></script>
+</head> 
+<body>
+<center>
+	<div id="container">
+	<script type="text/javascript" src="starmap.js"></script>
+	<div id="Menu">
+		<button class="planetButton" onclick="cameraOnMercury()">Mercury</button>
+		<button class="planetButton" onclick="cameraOnVenus()">Venus</button>
+		<button class="planetButton" onclick="cameraOnEarth()">Earth</button>
+		<button class="planetButton" onclick="cameraOnMars()">Mars</button>
+		<button class="planetButton" onclick="cameraOnJupiter()">Jupiter</button>
+		<button class="planetButton" onclick="cameraOnSaturn()">Saturn</button>
+		<button class="planetButton" onclick="cameraOnUranus()">Uranus</button>
+		<button class="planetButton" onclick="cameraOnNeptune()">Neptune</button>
+	</div>
+	</div>
+</center>
+</body> 
+</html>
