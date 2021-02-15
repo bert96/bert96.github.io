@@ -4,7 +4,7 @@ title: Home
 ---
 <div class="home-head">
 	<div class="head-overlay">
-		<iframe class="headerAnimation" src="/assets/js/object.html" width="100%" height="525px" scrolling="no">
+		<iframe class="headerAnimation" src="{{ site.url }}/assets/js/object.html" width="100%" height="525px" scrolling="no">
 		</iframe>
 		<div class="head-text-container">
 			<div class="person-container">
@@ -46,7 +46,7 @@ title: Home
 		</p>
 		<p>I like to be a creative guy and experiment with libraries and frameworks like Three.js and React. One of the things that fascinate me is astronomy and space related things. This is why many of my projects are related to that theme. I like to do hobby projects with different frameworks to keep myself busy with coding and to develop myself further as a front-end developer. I want to bring the skills I learned during my studies and from my hobby projects to a new level and work for a company to create interesting and nice looking websites.
 		</p>
-		<p>If you want to know more about me, check out my <a href="/curriculumvitae.pdf" target="_blank">Curriculum Vitae</a>.
+		<p>If you want to know more about me, check out my <a href="{{ site.url }}/assets/curriculumvitae.pdf" target="_blank">Curriculum Vitae</a>.
 		</p>
 	</div>
 	<div class="text-container contact">
