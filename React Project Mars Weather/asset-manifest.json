@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react/static/css/main.40717f81.chunk.css",
+    "main.js": "/react/static/js/main.d7ba19c0.chunk.js",
+    "main.js.map": "/react/static/js/main.d7ba19c0.chunk.js.map",
+    "runtime-main.js": "/react/static/js/runtime-main.de2efa1d.js",
+    "runtime-main.js.map": "/react/static/js/runtime-main.de2efa1d.js.map",
+    "static/js/2.9ef0c744.chunk.js": "/react/static/js/2.9ef0c744.chunk.js",
+    "static/js/2.9ef0c744.chunk.js.map": "/react/static/js/2.9ef0c744.chunk.js.map",
+    "static/js/3.421ad114.chunk.js": "/react/static/js/3.421ad114.chunk.js",
+    "static/js/3.421ad114.chunk.js.map": "/react/static/js/3.421ad114.chunk.js.map",
+    "index.html": "/react/index.html",
+    "static/css/main.40717f81.chunk.css.map": "/react/static/css/main.40717f81.chunk.css.map",
+    "static/js/2.9ef0c744.chunk.js.LICENSE.txt": "/react/static/js/2.9ef0c744.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/react/static/media/Marsview.80a0be5e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de2efa1d.js",
+    "static/js/2.9ef0c744.chunk.js",
+    "static/css/main.40717f81.chunk.css",
+    "static/js/main.d7ba19c0.chunk.js"
+  ]
+}
