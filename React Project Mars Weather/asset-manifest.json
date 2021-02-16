@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React%20Project%20Mars%20Weather/static/css/main.12aaba15.chunk.css",
+    "main.js": "/React%20Project%20Mars%20Weather/static/js/main.e4d63a12.chunk.js",
+    "main.js.map": "/React%20Project%20Mars%20Weather/static/js/main.e4d63a12.chunk.js.map",
+    "runtime-main.js": "/React%20Project%20Mars%20Weather/static/js/runtime-main.d3fab0ce.js",
+    "runtime-main.js.map": "/React%20Project%20Mars%20Weather/static/js/runtime-main.d3fab0ce.js.map",
+    "static/js/2.9ef0c744.chunk.js": "/React%20Project%20Mars%20Weather/static/js/2.9ef0c744.chunk.js",
+    "static/js/2.9ef0c744.chunk.js.map": "/React%20Project%20Mars%20Weather/static/js/2.9ef0c744.chunk.js.map",
+    "static/js/3.421ad114.chunk.js": "/React%20Project%20Mars%20Weather/static/js/3.421ad114.chunk.js",
+    "static/js/3.421ad114.chunk.js.map": "/React%20Project%20Mars%20Weather/static/js/3.421ad114.chunk.js.map",
+    "index.html": "/React%20Project%20Mars%20Weather/index.html",
+    "static/css/main.12aaba15.chunk.css.map": "/React%20Project%20Mars%20Weather/static/css/main.12aaba15.chunk.css.map",
+    "static/js/2.9ef0c744.chunk.js.LICENSE.txt": "/React%20Project%20Mars%20Weather/static/js/2.9ef0c744.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/React%20Project%20Mars%20Weather/static/media/Marsview.80a0be5e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3fab0ce.js",
+    "static/js/2.9ef0c744.chunk.js",
+    "static/css/main.12aaba15.chunk.css",
+    "static/js/main.e4d63a12.chunk.js"
+  ]
+}
