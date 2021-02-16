@@ -421,10 +421,6 @@ textarea {
 	textarea {
 		width: 300px;
 	}
-	.portfolio-text {
-		margin-bottom: 130vh !important;
-		margin-top: 25vh;
-	}
 	.linked-in-logo {
 		width: 200px;
 	}
@@ -479,7 +475,7 @@ textarea {
 		font-size: 30px;
 	}
 	.portfolio-text.purple-container {
-		padding-bottom: 200px;
+		padding-bottom: 300px;
 	}
 	.linked-in-logo {
 		width: 200px;
@@ -500,6 +496,10 @@ textarea {
 @media only screen and (max-width: 599px) {
 	.about-me {
 		margin-bottom: 140vh;
+	}
+	.portfolio-text {
+		margin-bottom: 110vh !important;
+		margin-top: 25vh;
 	}
 }
 @media only screen and (max-width: 992px) {
