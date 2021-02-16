@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Home
+title: Bert Koster
 ---
+<link rel="icon" type="image/png" href="/favicon.png"/>
 <div class="home-head">
 	<div class="head-overlay">
 		<iframe class="headerAnimation" src="{{ site.url }}/assets/js/object.html" width="100%" height="525px" scrolling="no">
