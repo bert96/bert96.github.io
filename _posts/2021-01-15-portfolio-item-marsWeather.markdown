@@ -4,7 +4,7 @@ title:  "React Project Mars Weather"
 categories: Portfolio
 thumbnail: "/assets/images/marsWeather.jpg"
 ---
-<meta http-equiv="refresh" content="0; URL='https://bert96.github.io'" />
+<meta http-equiv="refresh" content="0; URL='https://github.com/bert96/Mars-data-project'" />
 
 <!-- <a href="/starmap" target="_blank">![My helpful screenshot](/assets/images/marsWeather.jpg)</a>
 
