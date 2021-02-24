@@ -2,24 +2,24 @@
 layout: default
 title: Bert Koster
 ---
-<link rel="icon" type="image/png" href="/favicon.png"/>
+<script>AOS.init();</script>
 <div class="home-head">
 	<div class="head-overlay">
 		<iframe class="headerAnimation" src="{{ site.url }}/assets/js/object.html" width="100%" height="525px" scrolling="no">
 		</iframe>
 		<div class="head-text-container">
 			<div class="person-container">
-				<img class="person-icon" src="/assets/images/bert.jpg">
+				<img class="person-icon" data-aos="zoom-in" src="/assets/images/bert.jpg">
 			</div>
-			<h1 class="head-name questr">Bert Koster</h1>
+			<h1 class="head-name questr" data-aos="fade-up">Bert Koster</h1>
 			<h2 class="head-undertext questr">
 				<p>Front-end developer. HTML5, CSS3, Javascript,</p>
 				<p>Jquery, ThreeJS, React.</p>
 			</h2>
 		</div>
 	</div>
-		<div class="position-container">
-		<div class="portfolio-text text-container purple-container">
+	<div class="position-container">
+		<div class="portfolio-text text-container purple-container" data-aos="fade-up">
 			<h1 class="questr gold">What do I do?</h1>
 			<p class="white">If you like to know more about me, then take a look at my portfolio gallery to get a better impression of my current skills. The portfolio gallery gives an idea of my current capabilities in javascript and html/css programming. Besides that, I am always eager to learn something new to develop myself more as a front-end software developer.</p>
 			<p class="white">Here are some of my projects.</p>
@@ -27,7 +27,7 @@ title: Bert Koster
 				{% for post in site.categories.Portfolio %}
 				    {% if post.url %}
 				    	<div class="portfolio-container">
-					    	<div class="portfolio-item">
+					    	<div class="portfolio-item" data-aos="zoom-in-up">
 					    		<p class="item-title questr gold">{{ post.title }}</p>
 					        	<img src="{{ post.thumbnail }}" />
 					        	<div class="project-button-container">
@@ -41,7 +41,7 @@ title: Bert Koster
 			</div>
 		</div>
 	</div>
-	<div class="text-container">
+	<div class="text-container" data-aos="fade-up">
 		<h1 class="questr purple">Who am I?</h1>
 		<p>My name is Bert Koster, and I take interest in front-end webdevelopment. I finished studying Interaction Design at the Hanze Hogeschool in the city of Groningen in the Netherlands.
 		</p>
@@ -50,7 +50,7 @@ title: Bert Koster
 		<p>If you want to know more about me, check out my <a href="{{ site.url }}/assets/curriculumvitae.pdf" target="_blank">Curriculum Vitae</a>.
 		</p>
 	</div>
-	<div class="text-container contact">
+	<div class="text-container contact" data-aos="fade-up">
 		<h1 class="questr purple">Contact</h1>
 		<center><p>If you are interested in my work, and like to contact me. You can contact me through linked-in or e-mail address.</p></center>
 		<div class="center-content">
