@@ -21,7 +21,7 @@ title: Bert Koster
 	<div class="position-container">
 		<div class="portfolio-text text-container purple-container" data-aos="fade-up">
 			<h1 class="questr gold">What do I do?</h1>
-			<p class="white">If you like to know more about me, then take a look at my portfolio gallery to get a better impression of my current skills. The portfolio gallery gives an idea of my current capabilities in javascript and html/css programming. Besides that, I am always eager to learn something new to develop myself more as a front-end software developer.</p>
+			<p class="white">If you like to know more about me, then take a look at my portfolio gallery to get a better impression of my current skills as a front-end developer. Besides that, I am always eager to learn something new to develop my skills even more.</p>
 			<p class="white">Here are some of my projects.</p>
 			<div class="portfolio-box">
 				{% for post in site.categories.Portfolio %}
@@ -45,7 +45,7 @@ title: Bert Koster
 		<h1 class="questr purple">Who am I?</h1>
 		<p>My name is Bert Koster, and I take interest in front-end webdevelopment. I finished studying Interaction Design at the Hanze Hogeschool in the city of Groningen in the Netherlands.
 		</p>
-		<p>I like to be a creative guy and experiment with libraries and frameworks like Three.js and React. One of the things that fascinate me is astronomy and space related things. This is why many of my projects are related to that theme. I like to do hobby projects with different frameworks to keep myself busy with coding and to develop myself further as a front-end developer. I want to bring the skills I learned during my studies and from my hobby projects to a new level and work for a company to create interesting and nice looking websites.
+		<p>Being creative and doing personal projects with libraries and frameworks like Three.js and React is something I like to do. One of the things that fascinate me is astronomy and space related things. This is why many of my personal projects are related to that theme. This also helps me to develop myself further as a front-end developer. The skills I learned during my studies, internship and personal projects is something I want to go further with by working for a company as a webdeveloper.
 		</p>
 		<p>If you want to know more about me, check out my <a href="{{ site.url }}/assets/curriculumvitae.pdf" target="_blank">Curriculum Vitae</a>.
 		</p>
