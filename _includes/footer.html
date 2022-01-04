@@ -1,1 +1,7 @@
 <footer>© 2019-<span id="current-year"></span> Bert Koster</footer>
+<script type="text/javascript">
+    const current_year_element = document.getElementById("current-year");
+	const current_year = new Date().getFullYear();
+
+	current_year_element.innerText = current_year;
+</script>
