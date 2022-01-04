@@ -47,12 +47,12 @@ title: Bert Koster
 		</p>
 		<p>Being creative and doing personal projects with libraries and frameworks like Three.js and React is something I like to do. One of the things that fascinate me is astronomy and space related things. This is why many of my personal projects are related to that theme. This also helps me to develop myself further as a front-end developer. The skills I learned during my studies, internship and personal projects is something I want to go further with by working for a company as a webdeveloper.
 		</p>
-		<p>If you want to know more about me, check out my <a href="{{ site.url }}/assets/curriculumvitae.pdf" target="_blank">Curriculum Vitae</a>.
-		</p>
 	</div>
 	<div class="text-container contact" data-aos="fade-up">
 		<h1 class="questr purple">Contact</h1>
-		<center><p>If you are interested in my work, and like to contact me. You can contact me through linked-in or e-mail address.</p></center>
+		<center>
+			<p>If you are interested in my work, and like to contact me. You can contact me through linked-in or e-mail address.</p>
+		</center>
 		<div class="center-content">
 			<h2 class="purple">Contact me through linked-in</h2>
 			<a target="_blank" href="https://www.linkedin.com/in/bert-koster-34254699/"><img class="linked-in-logo" src="/assets/images/linked-in.png"></a>

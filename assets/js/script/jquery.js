@@ -13,3 +13,8 @@ $(document).ready(function(){
 		}
 	});
 });
+
+const current_year_element = document.getElementById("current-year");
+const current_year = new Date().getFullYear();
+
+current_year_element.innerText = current_year;
